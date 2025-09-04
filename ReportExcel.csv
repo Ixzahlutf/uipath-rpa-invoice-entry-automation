@@ -1,0 +1,11 @@
+﻿InvoiceNumber,InvoiceDate,numOfProcessedItem,CustomerName,CustomerAddress,CustomerCity,CustomerState,CustomerPinCode,CustomerTin,CustomerContactNo,Total
+100,"Jan 20, 2021",4,Mirtha M. Reeve,2099 John Calvin Drive,St Augustine,Florida,60606,14125436789,708-820-3518,20520
+109,"May 1, 2021",2,Carlos J. Ray,4562 Walnut Street,Denver,Colorado,80201,14000298763,303-555-9933,5508
+101,"Mar 20, 2021",4,Sandra J. Williams,3174 Trainer Avenue,Polk City,Florida,61375,14123926789,309-463-2797,6480
+102,"Apr 25, 2021",4,Sonja D. Eaton,4384 Heliport Loop,Orlando,Florida,47635,14122987689,812-649-6832,25920
+103,"Apr 26, 2021",2,Jordan R. Blake,4057 Market Street,San Diego,California,92101,13455210987,619-555-3289,11556
+104,"Apr 27, 2021",3,Tanya W. Nelson,8923 White Lane,Houston,Texas,77002,14588100655,713-555-7620,25164
+105,"Apr 28, 2021",4,Marcus P. Allen,1378 Cherry Blossom Rd,Las Vegas,Nevada,89101,14110987432,702-555-1234,25920
+106,"Apr 28, 2021",5,Danica S. Wood,6217 Maple Street,Seattle,Washington,98101,14789102931,206-555-9271,30672
+107,"Apr 30, 2021",6,Eli T. Dawson,321 Birch Ave,Phoenix,Arizona,85001,14133378900,602-555-6602,31428
+108,"Apr 30, 2021",3,Nina R. Schultz,7789 Grand River Ave,Detroit,Michigan,48201,14909872156,313-555-4440,13284

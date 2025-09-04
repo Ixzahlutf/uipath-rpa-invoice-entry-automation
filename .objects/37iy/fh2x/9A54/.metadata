@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Invoice.txt - Notepad",
+  "Type": "Screen",
+  "Id": "9A54fqWshkeTSj0y24W06Q",
+  "Reference": "e0sRwm1cEEyA7RC5Z2qLGQ/9A54fqWshkeTSj0y24W06Q",
+  "ParentRef": "e0sRwm1cEEyA7RC5Z2qLGQ/fh2x1tCqHkWAd0VCjtVCwA",
+  "Created": "2025-05-28T15:07:50.186471Z",
+  "Updated": "2025-05-28T15:07:50.186471Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1",
+        "ExtractDataTable&Sequence_26",
+        "InvoiceDate&Sequence_1",
+        "CustomerPinCode&Sequence_1",
+        "CustomerTIN&Sequence_1",
+        "companyAddress&Sequence_1",
+        "ArrayText&Sequence_1",
+        "ExtractedText&Sequence_1",
+        "companyName&Sequence_1",
+        "companyCity&Sequence_1",
+        "companyState&Sequence_1",
+        "companyPinCode&Sequence_1",
+        "companyContactNo&Sequence_1",
+        "companyTIN&Sequence_1",
+        "CustomerName&Sequence_1",
+        "CustomerAddress&Sequence_1",
+        "CustomerCity&Sequence_1",
+        "CustomerState&Sequence_1",
+        "CustomerContactNo&Sequence_1",
+        "InvoiceNumber&Sequence_1",
+        "invoiceFiles&Sequence_12",
+        "folderPath&Sequence_1",
+        "pdfFiles&Sequence_11",
+        "DestinationFolderPath&Sequence_6",
+        "mailInvoice&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main(Excel Report).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
