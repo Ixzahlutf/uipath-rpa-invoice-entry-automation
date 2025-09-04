@@ -94,7 +94,7 @@ This automation project reduces manual effort by performing the entire workflow 
 
 ## 👩‍💻 Author
 
-**Nurul Izzah Luthfiah Nur**
+Nurul Izzah Luthfiah Nur
 📍 Jakarta, Indonesia
 📧 [izzahluthfiah@gmail.com](mailto:izzahluthfiah@gmail.com)
 🔗 [LinkedIn](https://linkedin.com/in/izzahluthfiah) | [GitHub](https://github.com/Ixzahlutf)
